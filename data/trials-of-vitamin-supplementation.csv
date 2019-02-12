@@ -1,31 +1,31 @@
-FirstAuthor,YearOfPublication,StudyName,StudyDesign,VitaminIntervention,SpecficOutcome,OutcomeSubgroup,AgeAtOutcomeGroup,NEventsInter,TotalNInter,NEventsCtrl,TotalNCtrl,RiskOfBias,OverallRiskOfBias,ConflictOfInterestBias
-Aage,2015,Aage,RCT,VIT-A,AD,AD,5to14,12,748,15,730,Unclear-high,High,Low
-Aage,2015,Aage,RCT,VIT-A,ASany,SPT,any,121,724,107,706,Unclear-high,High,Low
-Aage,2015,Aage,RCT,VIT-A,WHZ,WHZ,5to14,57,748,46,730,Unclear-high,High,Low
-Chawes,2016,COPSAC,RCT,VIT-D,AD,AD,0to4,68,295,72,286,Low,Low,Low
-Chawes,2016,COPSAC,RCT,VIT-D,ASany,SPT,any,24,294,19,283,Low,Low,Low
-Chawes,2016,COPSAC,RCT,VIT-D,WHZ.REC,WHZ.REC,0to4,47,295,57,286,Low,Low,Low
-Checkley,2011,Checkley,RCT,VIT-A,WHZ,WHZ,5to14,90,536,92,476,Unclear-high,High ,Low 
-Checkley,2011,Checkley,RCT,B-Carotene,WHZ,WHZ,5to14,79,539,92,476,Unclear-high,High ,Low 
-Checkley,2011,Checkley,RCT,VIT-A,WHZ.REC,WHZ.REC,5to14,6,536,2,476,Unclear-high,High ,Low 
-Checkley,2011,Checkley,RCT,B-Carotene,WHZ.REC,WHZ.REC,5to14,3,539,2,476,Unclear-high,High ,Low 
-Czeizel,1994,Czeizel,RCT,Multi-VIt.,AD,AD,0to4,15,1628,4,1606,Unclear-high,Unclear-high,Low
-Czeizel,1994,Czeizel,RCT,Multi-VIt.,FA,FA,0to4,7,1628,8,1606,Unclear-high,Unclear-high,Low
-Czeizel,1994,Czeizel,RCT,Multi-VIt.,WHZ,WHZ,0to4,7,1628,3,1606,Unclear-high,Unclear-high,Low
-Czeizel,1994,Czeizel,RCT,Multi-VIt.,WHZ.REC,WHZ.REC,0to4,4,1628,1,1606,Unclear-high,Unclear-high,Low
-Goldring,2013,Goldring,RCT,VIT-D,AD,AD,0to4,30,102,15,49,Low,Low,Low
-Goldring,2013,Goldring,RCT,VIT-D,ASaero,SPT,any,11,68,7,27,Low,Low,Low
-Goldring,2013,Goldring,RCT,VIT-D,FA,FA,0to4,12,102,3,49,Low,Low,Low
-Goldring,2013,Goldring,RCT,VIT-D,WHZ,WHZ,0to4,26,108,14,50,Low,Low,Low
-Goldring,2013,Goldring,RCT,VIT-D,WHZ.REC,WHZ.REC,0to4,17,108,7,50,Low,Low,Low
-Grant ,2016,Grant ,RCT,VIT-D,ASaero,SPT,any,2,119,6,65,Low,Low,Low 
-Grant ,2016,Grant ,RCT,VIT-D,WHZ,WHZ,0to4,37,156,19,80,Low,Low,Low 
-Grant ,2016,Grant ,RCT,VIT-D,WHZ.REC,WHZ.REC,0to4,3,156,9,80,Low,Low,Low 
-Greenough,2010,Greenough,RCT,VIT-C and E,AD,AD,0to4,98,386,86,366,Unclear-high,Unclear-high,Low
-Greenough,2010,Greenough,RCT,VIT-C and E,WHZ,WHZ,0to4,90,386,103,366,Unclear-high,Unclear-high,Low
-Greenough,2010,Greenough,RCT,VIT-C and E,WHZ.REC,WHZ.REC,0to4,15,386,17,366,Unclear-high,Unclear-high,Low
-Kiraly ,2013,Kiraly ,RCT,VIT-A,ASaero,SPT,any,22,131,18,132,,,
-Litonjua,2016,Litonjua ,RCT,VIT-D,AD,AD,0to4,83,405,89,401,Low,Low,Low 
-Litonjua,2016,Litonjua ,RCT,VIT-D,ASany,sIgE,any,146,279,147,264,Unclear-high,Unclear-high,Low
-Litonjua,2016,Litonjua ,RCT,VIT-D,WHZ.REC,WHZ.REC,0to4,98,405,120,401,Low,Low,Low 
-McEvoy,2014,McEvoy,RCT,VIT-C and E,WHZ,WHZ,0to4,15,70,31,77,,,
+"FirstAuthor","YearOfPublication","StudyName","StudyDesign","VitaminIntervention","SpecficOutcome","OutcomeSubgroup","AgeAtOutcomeGroup","NEventsInter","TotalNInter","NEventsCtrl","TotalNCtrl","RiskOfBias","OverallRiskOfBias","ConflictOfInterestBias"
+"Aage","2015","Aage","RCT","VIT-A","AD","AD","5to14","12","748","15","730","Unclear-high","High","Low"
+"Aage","2015","Aage","RCT","VIT-A","ASany","SPT","any","121","724","107","706","Unclear-high","High","Low"
+"Aage","2015","Aage","RCT","VIT-A","WHZ","WHZ","5to14","57","748","46","730","Unclear-high","High","Low"
+"Chawes","2016","COPSAC","RCT","VIT-D","AD","AD","0to4","68","295","72","286","Low","Low","Low"
+"Chawes","2016","COPSAC","RCT","VIT-D","ASany","SPT","any","24","294","19","283","Low","Low","Low"
+"Chawes","2016","COPSAC","RCT","VIT-D","WHZ.REC","WHZ.REC","0to4","47","295","57","286","Low","Low","Low"
+"Checkley","2011","Checkley","RCT","VIT-A","WHZ","WHZ","5to14","90","536","92","476","Unclear-high","High ","Low "
+"Checkley","2011","Checkley","RCT","B-Carotene","WHZ","WHZ","5to14","79","539","92","476","Unclear-high","High ","Low "
+"Checkley","2011","Checkley","RCT","VIT-A","WHZ.REC","WHZ.REC","5to14","6","536","2","476","Unclear-high","High ","Low "
+"Checkley","2011","Checkley","RCT","B-Carotene","WHZ.REC","WHZ.REC","5to14","3","539","2","476","Unclear-high","High ","Low "
+"Czeizel","1994","Czeizel","RCT","Multi-VIt.","AD","AD","0to4","15","1628","4","1606","Unclear-high","Unclear-high","Low"
+"Czeizel","1994","Czeizel","RCT","Multi-VIt.","FA","FA","0to4","7","1628","8","1606","Unclear-high","Unclear-high","Low"
+"Czeizel","1994","Czeizel","RCT","Multi-VIt.","WHZ","WHZ","0to4","7","1628","3","1606","Unclear-high","Unclear-high","Low"
+"Czeizel","1994","Czeizel","RCT","Multi-VIt.","WHZ.REC","WHZ.REC","0to4","4","1628","1","1606","Unclear-high","Unclear-high","Low"
+"Goldring","2013","Goldring","RCT","VIT-D","AD","AD","0to4","30","102","15","49","Low","Low","Low"
+"Goldring","2013","Goldring","RCT","VIT-D","ASaero","SPT","any","11","68","7","27","Low","Low","Low"
+"Goldring","2013","Goldring","RCT","VIT-D","FA","FA","0to4","12","102","3","49","Low","Low","Low"
+"Goldring","2013","Goldring","RCT","VIT-D","WHZ","WHZ","0to4","26","108","14","50","Low","Low","Low"
+"Goldring","2013","Goldring","RCT","VIT-D","WHZ.REC","WHZ.REC","0to4","17","108","7","50","Low","Low","Low"
+"Grant ","2016","Grant ","RCT","VIT-D","ASaero","SPT","any","2","119","6","65","Low","Low","Low "
+"Grant ","2016","Grant ","RCT","VIT-D","WHZ","WHZ","0to4","37","156","19","80","Low","Low","Low "
+"Grant ","2016","Grant ","RCT","VIT-D","WHZ.REC","WHZ.REC","0to4","3","156","9","80","Low","Low","Low "
+"Greenough","2010","Greenough","RCT","VIT-C and E","AD","AD","0to4","98","386","86","366","Unclear-high","Unclear-high","Low"
+"Greenough","2010","Greenough","RCT","VIT-C and E","WHZ","WHZ","0to4","90","386","103","366","Unclear-high","Unclear-high","Low"
+"Greenough","2010","Greenough","RCT","VIT-C and E","WHZ.REC","WHZ.REC","0to4","15","386","17","366","Unclear-high","Unclear-high","Low"
+"Kiraly ","2013","Kiraly ","RCT","VIT-A","ASaero","SPT","any","22","131","18","132","","",""
+"Litonjua","2016","Litonjua ","RCT","VIT-D","AD","AD","0to4","83","405","89","401","Low","Low","Low "
+"Litonjua","2016","Litonjua ","RCT","VIT-D","ASany","sIgE","any","146","279","147","264","Unclear-high","Unclear-high","Low"
+"Litonjua","2016","Litonjua ","RCT","VIT-D","WHZ.REC","WHZ.REC","0to4","98","405","120","401","Low","Low","Low "
+"McEvoy","2014","McEvoy","RCT","VIT-C and E","WHZ","WHZ","0to4","15","70","31","77","","",""
